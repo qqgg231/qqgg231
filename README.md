@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This profile was moved to:
+
+https://github.com/karolzlot/
+
 <!--
 **qqgg231/qqgg231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
